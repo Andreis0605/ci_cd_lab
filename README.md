@@ -1,6 +1,6 @@
 # CI/CD workshop repository
 
-#TEST
+#TEST2
 
 ## Prerequisites
 
